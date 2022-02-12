@@ -143,6 +143,19 @@ div#mainContents .leftcontainer {
     text-decoration: none;
 	border-radius: 5px;
 }
+#award_button {
+	display:block;
+    background: #FFF;
+    padding: 5px;
+    color: #BC2A30;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-decoration: none;
+	border-radius: 5px;
+	font-size:110%;
+}
 
 #mainTopix
 
